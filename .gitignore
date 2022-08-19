@@ -2,6 +2,7 @@ __pycache__
 wandb
 mlruns
 outputs
+evaluate
 
 *.pkl
 *.csv
